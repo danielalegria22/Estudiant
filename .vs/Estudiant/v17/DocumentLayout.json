@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\Estudiant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B900F8FC-0EF7-4879-9263-1E9BD77D2F39}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\user\\onedrive\\desktop\\estudiant\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C9651-C0E6-45EC-A7C2-FE8DDADA355D}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\onedrive\\desktop\\estudiant\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB09F13-0962-4441-A9AB-7EB23C23CE5D}|..\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\onedrive\\desktop\\estudiant\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0279169F-F256-4995-A6F6-80BA9F284B94}|Estudiant.csproj|c:\\users\\user\\onedrive\\desktop\\estudiant\\estudiant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0279169F-F256-4995-A6F6-80BA9F284B94}|Estudiant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:19:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:19:46.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:19:32.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\Estudiant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Estudiant\\Estudiant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:19:01.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
